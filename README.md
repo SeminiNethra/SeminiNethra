@@ -1,38 +1,37 @@
-# Hi there, I'm Semini Nethra 👋
+# Hi there, I'm Semini Nethranjalee 👋
 
 ## About Me
-- 🔭 I'm currently working on [current project]
-- 🌱 I'm currently learning [technologies you're learning]
-- 👯 I'm looking to collaborate on [type of projects]
-- 💬 Ask me about [your expertise areas]
-- 📫 How to reach me: [your email or social media]
-- ⚡ Fun fact: [something interesting about you]
+- 🎓 Undergraduate at NSBM Green University & Plymouth University - United Kingdom
+- 🔭 I'm currently working on Hotel Management System and Statistical Analysis Projects
+- 🌱 I'm currently learning advanced programming concepts and data science techniques
+- 💼 Upcoming intern at Bank of Ceylon Head Office, Colombo (March - August 2025)
+- 👯 I'm looking to collaborate on data science and web development projects
+- 💬 Ask me about Python, R, statistical analysis, and hotel management systems
+- 📫 How to reach me: semininethranjalee@gmail.com
+- 📍 Based in Marawila, Sri Lanka
+- ⚡ Fun fact: I'm passionate about process mining and Monte Carlo simulations!
 
 ## 🛠️ Technologies & Tools
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Data Science & Analytics
+![Statistics](https://img.shields.io/badge/-Statistics-FF6B6B?style=for-the-badge&logo=chart.js&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4ECDC4?style=for-the-badge&logo=pandas&logoColor=white)
+![Process Mining](https://img.shields.io/badge/-Process%20Mining-45B7D1?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SeminiNethra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
@@ -44,17 +43,33 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeminiNethra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ## 🏆 Featured Projects
-### [Project Name 1](link-to-repo)
-Brief description of what this project does and technologies used.
 
-### [Project Name 2](link-to-repo)
-Brief description of what this project does and technologies used.
+### 🏨 [Hotel Management System](link-to-repo)
+A comprehensive software solution for streamlining hotel operations including reservations, guest management, room availability, maintenance tracking, billing, and secure payment processing. Built with robust database management techniques for reliable data storage and retrieval.
+
+### 📊 [Statistical Analysis Projects](link-to-repo)
+Collection of statistical projects including Monte Carlo simulations for estimating π using random dart throws, and probability calculations for dice roll scenarios. Demonstrates practical applications of statistical methods and simulation techniques.
+
+### 🎓 [Student Enrollment Process Analysis](link-to-repo)
+Research project utilizing process mining techniques and Heuristics Miner algorithm to analyze university student enrollment processes. Includes process mapping, bottleneck identification, and optimization recommendations with visualizations.
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semini-nethranjalee-054314205)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semininethranjalee@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeminiNethra)
+
+## 🎯 Current Focus
+- 📚 Completing undergraduate studies at NSBM Green University & Plymouth University
+- 💼 Preparing for upcoming internship at Bank of Ceylon (March 2025)
+- 🔬 Exploring advanced data science and process mining techniques
+- 🏨 Developing comprehensive management systems
+
+## 🌟 Leadership & Activities
+- 🏛️ Secretary of Human Resource Circle (2024-2025)
+- 📝 Chief Editor of Leo Club of Hogwarts (2024-2025)
+- 👥 HR Manager of Entrepreneur Circle (2024-2025)
+- ✍️ Senior Content Writer at Student Wellbeing Association
+- 🌐 Senior Content Writer at International Center for Cultural Exchange
 
 ## 📈 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=SeminiNethra&color=brightgreen&style=for-the-badge)
