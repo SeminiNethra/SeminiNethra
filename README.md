@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Semini Nethra 👋
 
 ## About Me
 - 🔭 I'm currently working on [current project]
@@ -35,13 +35,13 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SeminiNethra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeminiNethra&theme=tokyonight&hide_border=true&background=0D1117)
 
 ## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeminiNethra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ## 🏆 Featured Projects
 ### [Project Name 1](link-to-repo)
@@ -57,7 +57,7 @@ Brief description of what this project does and technologies used.
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
 
 ## 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=SeminiNethra&color=brightgreen&style=for-the-badge)
 
 ---
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [SeminiNethra](https://github.com/SeminiNethra)
