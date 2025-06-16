@@ -4,7 +4,7 @@
 - 🎓 Undergraduate at NSBM Green University & Plymouth University - United Kingdom
 - 🔭 I'm currently working on Hotel Management System and Statistical Analysis Projects
 - 🌱 I'm currently learning advanced programming concepts and data science techniques
-- 💼 Upcoming intern at Bank of Ceylon Head Office, Colombo (March - August 2025)
+- 💼 Upcoming intern at Bank of Ceylon Head Office, Colombo (March - September 2025)
 - 👯 I'm looking to collaborate on data science and web development projects
 - 💬 Ask me about Python, R, statistical analysis, and hotel management systems
 - 📫 How to reach me: semininethranjalee@gmail.com
