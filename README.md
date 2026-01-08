@@ -1,12 +1,12 @@
 # Hi there, I'm Semini Nethranjalee 👋
 
 ## About Me
-- 🎓 Undergraduate at NSBM Green University & Plymouth University - United Kingdom
-- 🔭 I'm currently working on Hotel Management System and Statistical Analysis Projects
-- 🌱 I'm currently learning advanced programming concepts and data science techniques
-- 💼 Upcoming intern at Bank of Ceylon Head Office, Colombo (March - September 2025)
-- 👯 I'm looking to collaborate on data science and web development projects
-- 💬 Ask me about Python, R, statistical analysis, and hotel management systems
+- 🎓 Graduated at NSBM Green University & Plymouth University - United Kingdom with Second Class Honors
+- 🔭 I'm currently working on UI & UX designs
+- 🌱 I'm currently learning Large Language Models & Advance Data Science
+- 💼 Finished my internship at Bank of Ceylon Head Office, Colombo (March 2025 - September 2025)
+- 👯 I'm looking to collaborate on data analysis, ui & ux designs and web development projects
+- 💬 Ask me about Python, R, statistical analysis, and Power BI
 - 📫 How to reach me: semininethranjalee@gmail.com
 - 📍 Based in Marawila, Sri Lanka
 - ⚡ Fun fact: I'm passionate about process mining and Monte Carlo simulations!
@@ -59,9 +59,9 @@ Research project utilizing process mining techniques and Heuristics Miner algori
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeminiNethra)
 
 ## 🎯 Current Focus
-- 📚 Completing undergraduate studies at NSBM Green University & Plymouth University
+- 📚 Actively seeking opportunities as a Data Analyst, Data Science Graduate, or Graduate Trainee
 - 💼 Preparing for upcoming internship at Bank of Ceylon (March 2025)
-- 🔬 Exploring advanced data science and process mining techniques
+- 🔬 Exploring advanced data science and Larg3e Language Models
 - 🏨 Developing comprehensive management systems
 
 ## 🌟 Leadership & Activities
